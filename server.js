@@ -22,7 +22,7 @@ app.get("*", (req, res) => {
   const helmet = Helmet.renderStatic();
 
   const html = `
-    <html>
+    <html lang="US-EN">
         <head>
             ${helmet.meta.toString()}
             ${helmet.title.toString()}
@@ -34,7 +34,6 @@ app.get("*", (req, res) => {
             <script src="client_bundle.js"></script>
         </head>
     </html>
-
   `;
 
   res.send(html);
