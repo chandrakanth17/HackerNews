@@ -4,11 +4,11 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "webpack:client": "webpack --config webpack.client.js --watch",
-    "webpack:server": "webpack --config webpack.server.js --watch",
+    "webpack:client": "webpack --config webpack/webpack.client.js --watch",
+    "webpack:server": "webpack --config webpack/webpack.server.js --watch",
     "webpack:start": "nodemon --watch build --exec node build/bundle.js",
     "dev": "npm-run-all --parallel webpack:*",
-    "build": "webpack --config webpack.client.js && webpack --config webpack.server.js",
+    "build": "webpack --config webpack/webpack.client.js && webpack --config webpack/webpack.server.js",
     "storybook": "start-storybook -p 6006",
     "lint": "eslint 'src/**/*.{ts,tsx,js,jsx,json}'"
   },
