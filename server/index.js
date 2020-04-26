@@ -29,7 +29,8 @@ app.get('*', (req, res) => {
   const helmet = Helmet.renderStatic();
 
   const html = `
-    <html lang="US-EN">
+    <!DOCTYPE html>
+    <html lang="en">
         <head>
             ${helmet.meta.toString()}
             ${helmet.title.toString()}
