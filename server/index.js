@@ -1,26 +1,31 @@
-import "babel-polyfill";
-import express from "express";
-import React from "react";
-import ReactDOMServer from "react-dom/server";
-import { StaticRouter } from "react-router";
-import bodyParser from "body-parser";
-import App from "../src/pages/App";
-import { Helmet } from "react-helmet";
+import 'babel-polyfill';
+import express from 'express';
+import React from 'react';
+import { renderToString } from 'react-dom/server';
+import { StaticRouter } from 'react-router';
+import bodyParser from 'body-parser';
+import { ServerStyleSheet, StyleSheetManager } from 'styled-components';
+import { Helmet } from 'react-helmet';
+import App from '../src/pages/App';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3001;
 
 app.use(bodyParser.json());
-app.use(express.static("build/public"));
+app.use(express.static('build/public'));
 
-app.get("*", (req, res) => {
+app.get('*', (req, res) => {
   const context = {};
+  const sheet = new ServerStyleSheet();
 
-  const content = ReactDOMServer.renderToString(
-    <StaticRouter location={req.url}>
-      <App />
-    </StaticRouter>
+  const content = renderToString(
+    <StyleSheetManager sheet={sheet.instance}>
+      <StaticRouter location={req.url}>
+        <App />
+      </StaticRouter>
+    </StyleSheetManager>
   );
+  const styleTags = sheet.getStyleTags();
   const helmet = Helmet.renderStatic();
 
   const html = `
@@ -29,6 +34,7 @@ app.get("*", (req, res) => {
             ${helmet.meta.toString()}
             ${helmet.title.toString()}
             <body>
+              ${styleTags}
                 <div id="root">
                     ${content}
                 </div>
