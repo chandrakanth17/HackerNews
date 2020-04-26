@@ -1,4 +1,6 @@
 build
-node-modules
+node_modules
 yarn.lock
 yarn-error.log
+.DS_Store
+.idea
