@@ -2,27 +2,31 @@ import React, { useEffect, useState } from 'react';
 import { getNewsFeed } from './service';
 import { INITIAL_LENGTH } from './Constant';
 import {
-  NavBar,
   AppContainer,
   Container,
+  MoreButton,
+  NavBar,
   Table,
-  TableBody,
-  MoreButton
+  TableBody
 } from './styles/FeedStyle';
 import TableRowItem from './Components/TableRow';
-import { head, getHidden, setHidden, filterFeeds } from './Utils';
+import { filterFeeds, getHidden, head, setHidden } from './Utils';
 
 const Home = () => {
   const [currentPage, setCurrentPage] = useState(0);
   const [currentFeeds, setCurrentFeeds] = useState([]);
 
-  useEffect(async () => {
-    const response = await getNewsFeed();
-    if (response && response.data) {
-      const filteredData = filterFeeds(response.data.hits, getHidden());
-      await setCurrentPage(response.data.page);
-      await setCurrentFeeds(filteredData);
-    }
+  useEffect(() => {
+    const init = async () => {
+      return getNewsFeed();
+    };
+    init().then(response => {
+      if (response && response.data) {
+        const filteredData = filterFeeds(response.data.hits, getHidden());
+        setCurrentPage(response.data.page);
+        setCurrentFeeds(filteredData);
+      }
+    });
   }, []);
 
   const fetchNextPage = async () => {

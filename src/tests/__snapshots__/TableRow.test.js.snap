@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table Row Item component should render correct Given a single feed data table row item will display the row with data 1`] = `
+<tr
+  className="sc-AxgMl hDlfOi"
+>
+  <td
+    className="sc-AxheI cKREbw"
+  >
+    159
+  </td>
+  <td
+    className="sc-AxheI cKREbw"
+  >
+    748
+  </td>
+  <td
+    className="sc-AxheI cKREbw"
+  >
+    <button
+      className="sc-Axmtr haBuNv"
+      onClick={[Function]}
+    >
+      ▲
+    </button>
+  </td>
+  <td
+    className="sc-AxheI cKREbw"
+  >
+    Seinfeld Adventure 
+    <a
+      className="sc-AxmLO ggKaVv"
+      href="https://www.seinfeldgame.com/"
+    >
+       
+      (www.seinfeldgame.com) 
+       
+    </a>
+    <span
+      className="sc-fzozJi ixACyM"
+    >
+      <span
+        className="sc-fzpans jofvbJ"
+      >
+        by
+      </span>
+      tosh 
+       
+      <span
+        className="sc-fzpans jofvbJ"
+      >
+        in 2 days ago 
+      </span>
+      <button
+        className="sc-fzoLsD hMdAPp"
+        onClick={[Function]}
+      >
+        [ Hide ]
+      </button>
+    </span>
+  </td>
+</tr>
+`;

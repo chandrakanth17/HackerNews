@@ -1,0 +1,793 @@
+{
+  "hits": [
+    {
+      "created_at": "2020-04-24T21:15:28.000Z",
+      "title": "Seinfeld Adventure",
+      "url": "https://www.seinfeldgame.com/",
+      "author": "tosh",
+      "points": 748,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 159,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587762928,
+      "_tags": [
+        "story",
+        "author_tosh",
+        "story_22972983",
+        "front_page"
+      ],
+      "objectID": "22972983",
+      "_highlightResult": {
+        "title": {
+          "value": "Seinfeld Adventure",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.seinfeldgame.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tosh",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T12:38:51.000Z",
+      "title": "Time is the only real currency we have",
+      "url": "https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html",
+      "author": "hackeryogi",
+      "points": 379,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 168,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587818331,
+      "_tags": [
+        "story",
+        "author_hackeryogi",
+        "story_22977637",
+        "front_page"
+      ],
+      "objectID": "22977637",
+      "_highlightResult": {
+        "title": {
+          "value": "Time is the only real currency we have",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "hackeryogi",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T08:27:17.000Z",
+      "title": "PlantNet – App that helps identify plants from pictures",
+      "url": "https://plantnet.org/en/",
+      "author": "shrikant",
+      "points": 264,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 49,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587803237,
+      "_tags": [
+        "story",
+        "author_shrikant",
+        "story_22976611",
+        "front_page"
+      ],
+      "objectID": "22976611",
+      "_highlightResult": {
+        "title": {
+          "value": "PlantNet – App that helps identify plants from pictures",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://plantnet.org/en/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "shrikant",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T03:28:47.000Z",
+      "title": "Microsoft Word now flags double spaces after a period as errors",
+      "url": "https://www.theverge.com/2020/4/24/21234170/microsoft-word-two-spaces-period-error-correction-great-space-debate",
+      "author": "blondin",
+      "points": 256,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 213,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587785327,
+      "_tags": [
+        "story",
+        "author_blondin",
+        "story_22975299",
+        "front_page"
+      ],
+      "objectID": "22975299",
+      "_highlightResult": {
+        "title": {
+          "value": "Microsoft Word now flags double spaces after a period as errors",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.theverge.com/2020/4/24/21234170/microsoft-word-two-spaces-period-error-correction-great-space-debate",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "blondin",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T04:00:44.000Z",
+      "title": "Shell Productivity Tips and Tricks",
+      "url": "https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html",
+      "author": "pcr910303",
+      "points": 228,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 62,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587787244,
+      "_tags": [
+        "story",
+        "author_pcr910303",
+        "story_22975437",
+        "front_page"
+      ],
+      "objectID": "22975437",
+      "_highlightResult": {
+        "title": {
+          "value": "Shell Productivity Tips and Tricks",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://blog.balthazar-rouberol.com/shell-productivity-tips-and-tricks.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "pcr910303",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T10:14:36.000Z",
+      "title": "UChicago Medicine doctors see ‘remarkable’ success using ventilator alternatives",
+      "url": "https://www.uchicagomedicine.org/forefront/coronavirus-disease-covid-19/uchicago-medicine-doctors-see-truly-remarkable-success-using-ventilator-alternatives-to-treat-covid19",
+      "author": "9nGQluzmnq3M",
+      "points": 187,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 63,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587809676,
+      "_tags": [
+        "story",
+        "author_9nGQluzmnq3M",
+        "story_22977076",
+        "front_page"
+      ],
+      "objectID": "22977076",
+      "_highlightResult": {
+        "title": {
+          "value": "UChicago Medicine doctors see ‘remarkable’ success using ventilator alternatives",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.uchicagomedicine.org/forefront/coronavirus-disease-covid-19/uchicago-medicine-doctors-see-truly-remarkable-success-using-ventilator-alternatives-to-treat-covid19",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "9nGQluzmnq3M",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T02:42:44.000Z",
+      "title": "Background Matting: The World is Your Green Screen",
+      "url": "https://grail.cs.washington.edu/projects/background-matting/",
+      "author": "hr7161",
+      "points": 187,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 51,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587782564,
+      "_tags": [
+        "story",
+        "author_hr7161",
+        "story_22975104",
+        "front_page"
+      ],
+      "objectID": "22975104",
+      "_highlightResult": {
+        "title": {
+          "value": "Background Matting: The World is Your Green Screen",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://grail.cs.washington.edu/projects/background-matting/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "hr7161",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T14:00:05.000Z",
+      "title": "What does the 'rc' in `.bashrc`, etc. mean?",
+      "url": "https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean",
+      "author": "janvdberg",
+      "points": 167,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 37,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587823205,
+      "_tags": [
+        "story",
+        "author_janvdberg",
+        "story_22978147",
+        "front_page"
+      ],
+      "objectID": "22978147",
+      "_highlightResult": {
+        "title": {
+          "value": "What does the 'rc' in `.bashrc`, etc. mean?",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://superuser.com/questions/173165/what-does-the-rc-in-bashrc-etc-mean",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "janvdberg",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T16:31:39.000Z",
+      "title": "The 1-line package that broke `NPM create-react-app`",
+      "url": "https://github.com/then/is-promise/issues/13",
+      "author": "tessela",
+      "points": 146,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 119,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587832299,
+      "_tags": [
+        "story",
+        "author_tessela",
+        "story_22979245",
+        "front_page"
+      ],
+      "objectID": "22979245",
+      "_highlightResult": {
+        "title": {
+          "value": "The 1-line package that broke `NPM create-react-app`",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/then/is-promise/issues/13",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "tessela",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-24T13:28:10.000Z",
+      "title": "CSS for Internationalisation",
+      "url": "https://www.chenhuijing.com/blog/css-for-i18n/",
+      "author": "polm23",
+      "points": 139,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 31,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587734890,
+      "_tags": [
+        "story",
+        "author_polm23",
+        "story_22967701",
+        "front_page"
+      ],
+      "objectID": "22967701",
+      "_highlightResult": {
+        "title": {
+          "value": "CSS for Internationalisation",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.chenhuijing.com/blog/css-for-i18n/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "polm23",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T07:59:56.000Z",
+      "title": "Install Ubuntu 20.04 LTS on MacBookPro14,1",
+      "url": "https://victorleungtw.com/2020/04/24/install-ubuntu-macbook-pro.html",
+      "author": "victorleungtw",
+      "points": 136,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 117,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587801596,
+      "_tags": [
+        "story",
+        "author_victorleungtw",
+        "story_22976502",
+        "front_page"
+      ],
+      "objectID": "22976502",
+      "_highlightResult": {
+        "title": {
+          "value": "Install Ubuntu 20.04 LTS on MacBookPro14,1",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://victorleungtw.com/2020/04/24/install-ubuntu-macbook-pro.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "victorleungtw",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-24T20:44:48.000Z",
+      "title": "500K bet on rock paper scissors ruled invalid by Quebec court",
+      "url": "https://www.cbc.ca/news/canada/montreal/500-k-bet-on-rock-paper-scissors-1.5543533",
+      "author": "danso",
+      "points": 108,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 135,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587761088,
+      "_tags": [
+        "story",
+        "author_danso",
+        "story_22972730",
+        "front_page"
+      ],
+      "objectID": "22972730",
+      "_highlightResult": {
+        "title": {
+          "value": "500K bet on rock paper scissors ruled invalid by Quebec court",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.cbc.ca/news/canada/montreal/500-k-bet-on-rock-paper-scissors-1.5543533",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "danso",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T11:25:09.000Z",
+      "title": "Inside the audio app that has consumed my life",
+      "url": "https://divinations.substack.com/p/inside-the-clubhouse",
+      "author": "dshipper",
+      "points": 76,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 40,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587813909,
+      "_tags": [
+        "story",
+        "author_dshipper",
+        "story_22977327",
+        "front_page"
+      ],
+      "objectID": "22977327",
+      "_highlightResult": {
+        "title": {
+          "value": "Inside the audio app that has consumed my life",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://divinations.substack.com/p/inside-the-clubhouse",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "dshipper",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T10:14:43.000Z",
+      "title": "Myths about USB NKRO and how USB HID works",
+      "url": "https://www.devever.net/~hl/usbnkro",
+      "author": "panic",
+      "points": 71,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 24,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587809683,
+      "_tags": [
+        "story",
+        "author_panic",
+        "story_22977077",
+        "front_page"
+      ],
+      "objectID": "22977077",
+      "_highlightResult": {
+        "title": {
+          "value": "Myths about USB NKRO and how USB HID works",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.devever.net/~hl/usbnkro",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "panic",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-24T10:09:32.000Z",
+      "title": "Researchers discover ferroelectricity at the atomic scale",
+      "url": "https://phys.org/news/2020-04-ferroelectricity-atomic-scale.html",
+      "author": "dnetesn",
+      "points": 66,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 7,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587722972,
+      "_tags": [
+        "story",
+        "author_dnetesn",
+        "story_22966411",
+        "front_page"
+      ],
+      "objectID": "22966411",
+      "_highlightResult": {
+        "title": {
+          "value": "Researchers discover ferroelectricity at the atomic scale",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://phys.org/news/2020-04-ferroelectricity-atomic-scale.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "dnetesn",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T05:14:50.000Z",
+      "title": "A New Problem Is Brewing in the Beer Industry: One Million Kegs Are Going Stale",
+      "url": "https://www.wsj.com/articles/a-new-problem-is-brewing-in-the-beer-industry-one-million-kegs-are-going-stale-11587733224",
+      "author": "prostoalex",
+      "points": 64,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 91,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587791690,
+      "_tags": [
+        "story",
+        "author_prostoalex",
+        "story_22975776",
+        "front_page"
+      ],
+      "objectID": "22975776",
+      "_highlightResult": {
+        "title": {
+          "value": "A New Problem Is Brewing in the Beer Industry: One Million Kegs Are Going Stale",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.wsj.com/articles/a-new-problem-is-brewing-in-the-beer-industry-one-million-kegs-are-going-stale-11587733224",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "prostoalex",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T04:46:17.000Z",
+      "title": "Perfect UX Is Impossible (2019)",
+      "url": "https://erik.itland.no/perfect-ux-is-impossible",
+      "author": "eitland",
+      "points": 64,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 36,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587789977,
+      "_tags": [
+        "story",
+        "author_eitland",
+        "story_22975656",
+        "front_page"
+      ],
+      "objectID": "22975656",
+      "_highlightResult": {
+        "title": {
+          "value": "Perfect UX Is Impossible (2019)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://erik.itland.no/perfect-ux-is-impossible",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "eitland",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T16:39:39.000Z",
+      "title": "Show HN: Free foreign exchange rates API",
+      "url": "https://exchangerate.host",
+      "author": "arzzen",
+      "points": 52,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 16,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587832779,
+      "_tags": [
+        "story",
+        "author_arzzen",
+        "story_22979288",
+        "show_hn",
+        "front_page"
+      ],
+      "objectID": "22979288",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Free foreign exchange rates API",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://exchangerate.host",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "arzzen",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T14:17:50.000Z",
+      "title": "Anatomists of Melancholy in the Age of Coronavirus",
+      "url": "https://www.chronicle.com/article/Anatomists-of-Melancholy-in/248552?key=wD5N8zUKkQDLHNwlH_yTVh0iZ18krfexzHaeuagJjlbndHY3jJvE_ndn--urEF4iVTZMMjFsMWc1SFBtNGtpYzBFM2JlUDFmQlNRcnBISG1BRGFoaXFWWnluTQ",
+      "author": "andrewl",
+      "points": 49,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 76,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587824270,
+      "_tags": [
+        "story",
+        "author_andrewl",
+        "story_22978248",
+        "front_page"
+      ],
+      "objectID": "22978248",
+      "_highlightResult": {
+        "title": {
+          "value": "Anatomists of Melancholy in the Age of Coronavirus",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.chronicle.com/article/Anatomists-of-Melancholy-in/248552?key=wD5N8zUKkQDLHNwlH_yTVh0iZ18krfexzHaeuagJjlbndHY3jJvE_ndn--urEF4iVTZMMjFsMWc1SFBtNGtpYzBFM2JlUDFmQlNRcnBISG1BRGFoaXFWWnluTQ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "andrewl",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-04-25T13:16:57.000Z",
+      "title": "Odroid-C4 for 50 Dollar (Raspberry 4 clone)",
+      "url": "https://www.hardkernel.com/shop/odroid-c4/",
+      "author": "doener",
+      "points": 36,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 27,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1587820617,
+      "_tags": [
+        "story",
+        "author_doener",
+        "story_22977864",
+        "front_page"
+      ],
+      "objectID": "22977864",
+      "_highlightResult": {
+        "title": {
+          "value": "Odroid-C4 for 50 Dollar (Raspberry 4 clone)",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.hardkernel.com/shop/odroid-c4/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "doener",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 30,
+  "page": 0,
+  "nbPages": 2,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": true,
+  "query": "",
+  "params": "advancedSyntax=true&analytics=true&analyticsTags=backend&page=0&tags=front_page",
+  "processingTimeMS": 2
+}
