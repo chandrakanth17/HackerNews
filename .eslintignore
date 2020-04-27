@@ -1,7 +1,0 @@
-# Created by .ignore support plugin (hsz.mobi)
-node_modules
-.next
-serviceWorker.js
-yarn.lock
-package.json
-build

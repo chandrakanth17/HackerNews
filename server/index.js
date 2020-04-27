@@ -6,7 +6,7 @@ import { StaticRouter } from 'react-router';
 import bodyParser from 'body-parser';
 import { ServerStyleSheet, StyleSheetManager } from 'styled-components';
 import { Helmet } from 'react-helmet';
-import App from '../src/pages/App';
+import Home from '../src/pages/Home';
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -15,13 +15,12 @@ app.use(bodyParser.json());
 app.use(express.static('build/public'));
 
 app.get('*', (req, res) => {
-  const context = {};
   const sheet = new ServerStyleSheet();
 
   const content = renderToString(
     <StyleSheetManager sheet={sheet.instance}>
       <StaticRouter location={req.url}>
-        <App />
+        <Home />
       </StaticRouter>
     </StyleSheetManager>
   );

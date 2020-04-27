@@ -1,11 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import App from './pages/App';
+import 'babel-polyfill';
+import Home from './pages/Home';
 
-ReactDOM.hydrate(
-  <BrowserRouter>
-    <Route path="/" component={App} />
-  </BrowserRouter>,
-  document.querySelector('#root')
-);
+ReactDOM.hydrate(<Home />, document.querySelector('#root'));

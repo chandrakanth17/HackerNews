@@ -49,7 +49,7 @@ exports[`Table Row Item component should render correct Given a single feed data
       <span
         className="sc-fzpans jofvbJ"
       >
-        in 2 days ago 
+        in 3 days ago 
       </span>
       <button
         className="sc-fzoLsD hMdAPp"
