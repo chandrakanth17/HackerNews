@@ -1,15 +1,17 @@
 import axios from 'axios';
 import { INITIAL_LENGTH } from './Constant';
-import wrapper from 'axios-cache-plugin';
+import { setupCache } from 'axios-cache-adapter';
 
-const http = wrapper(axios, {
-  maxCacheSize: 25,
-  ttl: 60000
+const cache = setupCache({
+  maxAge: 15 * 60 * 1000
 });
-http.__addFilter(/search/);
 
+// Create `axios` instance passing the newly created `cache.adapter`
+const api = axios.create({
+  adapter: cache.adapter
+});
 export const getNewsFeed = (pageNumber = INITIAL_LENGTH) => {
-  return http({
+  return api({
     url: `http://hn.algolia.com/api/v1/search?tags=front_page&page=${pageNumber}`,
     method: 'get'
   })

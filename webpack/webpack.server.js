@@ -14,17 +14,16 @@ module.exports = {
       {
         test: /\.js$/,
         loader: 'babel-loader',
-        exclude: '/node-modules/',
+        exclude: '/(node_modules|bower_components)/',
         options: {
           presets: [
             'react',
             'stage-0',
-            'babel-preset-es2015',
             [
               'env',
               {
                 target: {
-                  browsers: ['last 2 versions']
+                  browsers: ['last 5 versions']
                 }
               }
             ]
