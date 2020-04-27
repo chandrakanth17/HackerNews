@@ -1,13 +1,13 @@
 {
   "name": "react-project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "build/bundle.js",
   "license": "MIT",
   "scripts": {
     "webpack:client": "webpack --config webpack/webpack.client.js -p --watch ",
     "webpack:server": "webpack --config webpack/webpack.server.js -p --watch",
     "webpack:start": "nodemon --watch build --exec node build/bundle.js",
-    "start": "nodemon --watch build --exec node build/bundle.js",
+    "start": "nodemon build --exec node build/bundle.js",
     "dev": "npm-run-all --parallel webpack:*",
     "build": "webpack --config webpack/webpack.client.js && webpack --config webpack/webpack.server.js",
     "lint": "eslint 'src/**/*.{ts,tsx,js,jsx,json}'",
