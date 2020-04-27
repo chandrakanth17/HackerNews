@@ -20,13 +20,13 @@ module.exports = {
           presets: [
             'react',
             'stage-0',
-            [
-              'env',
+            'babel-preset-es2015'[
+              ('env',
               {
                 target: {
                   browsers: ['last 2 versions']
                 }
-              }
+              })
             ]
           ]
         }
