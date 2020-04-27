@@ -10,8 +10,8 @@
     "dev": "npm-run-all --parallel webpack:*",
     "build": "webpack --config webpack/webpack.client.js && webpack --config webpack/webpack.server.js",
     "lint": "eslint 'src/**/*.{ts,tsx,js,jsx,json}'",
-    "test": "jest",
-    "heroku-postbuild": "nodemon build --exec node build/bundle.js"
+    "start": "node build/bundle.js",
+    "test": "jest"
   },
   "dependencies": {
     "@babel/preset-env": "^7.9.5",
